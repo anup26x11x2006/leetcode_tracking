@@ -4,15 +4,26 @@ public:
         auto check = [](const string& pattern, const string& word) -> bool {
             int m = pattern.size();
             int n = word.size();
-            for (int i = 0; i + m <= n; ++i) {
-                bool flag = true;
-                for (int j = 0; j < m; ++j) {
-                    if (word[i + j] != pattern[j]) {
-                        flag = false;
-                        break;
-                    }
+            // generate the prefix array of the pattern
+            vector<int> pi(m);
+            for (int i = 1, j = 0; i < m; i++) {
+                while (j > 0 && pattern[i] != pattern[j]) {
+                    j = pi[j - 1];
                 }
-                if (flag) {
+                if (pattern[i] == pattern[j]) {
+                    ++j;
+                }
+                pi[i] = j;
+            }
+            // using prefix arrays for matching
+            for (int i = 0, j = 0; i < n; i++) {
+                while (j > 0 && word[i] != pattern[j]) {
+                    j = pi[j - 1];
+                }
+                if (word[i] == pattern[j]) {
+                    ++j;
+                }
+                if (j == m) {
                     return true;
                 }
             }
