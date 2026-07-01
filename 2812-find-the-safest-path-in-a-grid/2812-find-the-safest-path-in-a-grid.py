@@ -1,54 +1,53 @@
-class Solution:
+from collections import deque
+import heapq
 
-    dir = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-
+class Solution(object):
     def maximumSafenessFactor(self, grid):
-        n = len(grid)
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        row = len(grid)
+        col = len(grid[0])
 
-        multi_source_queue = deque()
+        if grid[0][0] == 1 or grid[row-1][col-1] == 1:
+            return 0
 
-        for i in range(n):
-            for j in range(n):
-                if grid[i][j] == 1:
-
-                    multi_source_queue.append((i, j))
-
-                    grid[i][j] = 0
+        thief = []
+        for r in range(row):
+            for c in range(col):
+                if grid[r][c] == 1:
+                    thief.append((r, c))
+                    grid[r][c] = 0
                 else:
+                    grid[r][c] = -1
 
-                    grid[i][j] = -1
+        q = deque(thief)
+        direction = [(1, 0), (-1, 0), (0, -1), (0, 1)]
+        
+        while q:
+            r, c = q.popleft()
+            for dr, dc in direction:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < row and 0 <= nc < col and grid[nr][nc] == -1:
+                    grid[nr][nc] = grid[r][c] + 1
+                    q.append((nr, nc))
 
-        while multi_source_queue:
-            size = len(multi_source_queue)
-            while size > 0:
-                curr = multi_source_queue.popleft()
+        max_safeness = [[-1] * col for _ in range(row)]
+        max_safeness[0][0] = grid[0][0]
 
-                for d in self.dir:
-                    di, dj = curr[0] + d[0], curr[1] + d[1]
-                    val = grid[curr[0]][curr[1]]
-
-                    if self.isValidCell(grid, di, dj) and grid[di][dj] == -1:
-
-                        grid[di][dj] = val + 1
-                        multi_source_queue.append((di, dj))
-                size -= 1
-
-        pq = [[-grid[0][0], 0, 0]]
-        grid[0][0] = -1
+        pq = [(-grid[0][0], 0, 0)]
+        
         while pq:
-            safeness, i, j = heapq.heappop(pq)
-
-            if i == n - 1 and j == n - 1:
-                return -safeness
-
-            for d in self.dir:
-                di, dj = i + d[0], j + d[1]
-
-                if self.isValidCell(grid, di, dj) and grid[di][dj] != -1:
-                    heapq.heappush(pq, [-min(-safeness, grid[di][dj]), di, dj])
-                    grid[di][dj] = -1
-
-        return -1
-    def isValidCell(self, grid, i, j):
-        n = len(grid)
-        return 0 <= i < n and 0 <= j < n
+            safeness, r, c = heapq.heappop(pq)
+            safeness = -safeness
+            if r == row - 1 and c == col - 1:
+                return safeness
+            for dr, dc in direction:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < row and 0 <= nc < col:
+                    new_safeness = min(safeness, grid[nr][nc])
+                    if new_safeness > max_safeness[nr][nc]:
+                        max_safeness[nr][nc] = new_safeness
+                        heapq.heappush(pq, (-new_safeness, nr, nc))
+        return 0
