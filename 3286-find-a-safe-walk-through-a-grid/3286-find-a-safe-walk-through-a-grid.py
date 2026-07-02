@@ -1,17 +1,31 @@
-class Solution:
-    def findSafeWalk(self, grid, health):
-        m, n = len(grid), len(grid[0])
-        dis = [[-1] * n for _ in range(m)]
-        dirs = [(0, 1), (1, 0), (-1, 0), (0, -1)]
+from collections import deque
 
-        pq = [(grid[0][0], 0, 0)]
-        while pq:
-            val, cx, cy = heapq.heappop(pq)
-            if dis[cx][cy] >= 0:
-                continue
-            dis[cx][cy] = val
-            for dx, dy in dirs:
-                nx, ny = cx + dx, cy + dy
-                if 0 <= nx < m and 0 <= ny < n and dis[nx][ny] == -1:
-                    heapq.heappush(pq, (val + grid[nx][ny], nx, ny))
-        return dis[m - 1][n - 1] < health
+class Solution(object):
+    def findSafeWalk(self, grid, health):
+       
+        linhas = len(grid)
+        colunas = len(grid[0])
+        vida_inicial = health - grid[0][0]
+        if vida_inicial <= 0:
+            return False
+        fila = deque()
+        fila.append((0, 0, vida_inicial))
+        visitados = set()
+        visitados.add((0, 0))
+        direcoes = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        while len(fila) > 0:
+            r, c, vida_atual = fila.popleft()
+            if r == linhas - 1 and c == colunas - 1:
+                return vida_atual >= 1
+            for dr, dc in direcoes:
+                nr = r + dr
+                nc = c + dc
+                if 0 <= nr < linhas and 0 <= nc < colunas and (nr, nc) not in visitados:
+                    nova_vida = vida_atual - grid[nr][nc]
+                    if nova_vida >= 1:
+                        visitados.add((nr, nc))
+                        if grid[nr][nc] == 0:
+                            fila.appendleft((nr, nc, nova_vida))
+                        else:
+                            fila.append((nr, nc, nova_vida))
+        return False
