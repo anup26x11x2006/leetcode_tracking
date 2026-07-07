@@ -72,6 +72,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
