@@ -21,6 +21,7 @@ leetcode_tracking
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ leetcode_tracking
 | ------- |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +98,8 @@ leetcode_tracking
 | ------- |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1288-remove-covered-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
