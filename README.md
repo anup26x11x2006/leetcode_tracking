@@ -14,6 +14,7 @@ leetcode_tracking
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 ## String
@@ -37,6 +38,7 @@ leetcode_tracking
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -68,6 +70,7 @@ leetcode_tracking
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -84,6 +87,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -98,13 +102,23 @@ leetcode_tracking
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
