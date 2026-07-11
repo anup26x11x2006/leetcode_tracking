@@ -1,50 +1,60 @@
 class Solution {
 public:
+    vector<int> par;
+
+    int find(int x){
+        if(par[x] == x) return x;
+        return par[x] = find(par[x]) ;
+    }
+
+    void uunion(int u, int v){
+        int pu = find(u);
+        int pv = find(v);
+
+        if(pu == pv) return;
+        else{
+            par[pv] = pu;
+        }
+    }
+
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> graph(n);
-        for (const auto& edge : edges) {
-            int u = edge[0], v = edge[1];
-            graph[u].push_back(v);
-            graph[v].push_back(u);
+        par.resize(n);
+        for(int i=0; i<n; i++) par[i] = i; 
+
+        vector<int> count(n);
+        vector<int> size(n);
+
+        int ans = 0;
+
+        for(auto &it:edges){
+            int u = it[0];
+            int v = it[1];
+            int pu = find(u);
+            int pv = find(v);
+
+            uunion(pu,pv) ; 
         }
 
-        vector<bool> visited(n, false);
-        int completeComponents = 0;
+        for(auto &it : edges){
+            int u = it[0];
+            int v = it[1];
 
-        for (int vertex = 0; vertex < n; vertex++) {
-            if (!visited[vertex]) {
-                vector<int> component;
-                queue<int> q;
-                q.push(vertex);
-                visited[vertex] = true;
+            int pu = find(u);
 
-                while (!q.empty()) {
-                    int current = q.front();
-                    q.pop();
-                    component.push_back(current);
-
-                    for (int neighbor : graph[current]) {
-                        if (!visited[neighbor]) {
-                            q.push(neighbor);
-                            visited[neighbor] = true;
-                        }
-                    }
-                }
-
-                bool isComplete = true;
-                for (int node : component) {
-                    if (graph[node].size() != component.size() - 1) {
-                        isComplete = false;
-                        break;
-                    }
-                }
-
-                if (isComplete) {
-                    completeComponents++;
-                }
-            }
+            count[pu]++;
         }
 
-        return completeComponents;
+        for(int i=0; i<n; i++){
+            int papa = find(i) ;
+            size[papa] ++ ;
+        }
+
+        for(int i=0; i<n; i++){
+            if(size[i] == 0) continue ;
+            int k = size[i];
+            if(count[i] == (k*(k-1))/2) ans++;
+        }
+
+        return ans ;
     }
 };
