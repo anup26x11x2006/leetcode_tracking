@@ -128,4 +128,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
