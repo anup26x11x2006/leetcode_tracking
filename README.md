@@ -88,6 +88,7 @@ leetcode_tracking
 | ------- |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -139,4 +140,5 @@ leetcode_tracking
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
