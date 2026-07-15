@@ -87,6 +87,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
+| [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -94,6 +95,7 @@ leetcode_tracking
 ## Dynamic Programming
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,4 +143,8 @@ leetcode_tracking
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
