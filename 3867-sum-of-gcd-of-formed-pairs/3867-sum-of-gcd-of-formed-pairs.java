@@ -1,41 +1,32 @@
 class Solution {
-
-    public long gcdSum(int[] nums) {
-        int n = nums.length;
-
-        int[] mx = new int[n];
-        int prefixMax = Integer.MIN_VALUE;
-
-        for (int i = 0; i < n; ++i) {
-            prefixMax = Math.max(prefixMax, nums[i]);
-            mx[i] = prefixMax;
+   
+    public long gcdSum(int[] arr) {
+        int[] prefi = new int[arr.length];
+        int mx = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > mx) {
+                mx = arr[i];
+            }
+            prefi[i] = gcd(mx, arr[i]);
         }
-
-        int[] prefixGcd = new int[n];
-        for (int i = 0; i < n; ++i) {
-            prefixGcd[i] = gcd(nums[i], mx[i]);
+        Arrays.sort(prefi);
+        int i = 0;
+        int j = arr.length - 1;
+        long sum = 0;
+        while (i < j) {
+            sum += gcd(prefi[i], prefi[j]);
+            i++;
+            j--;
         }
-
-        Arrays.sort(prefixGcd);
-
-        long ans = 0;
-        int left = 0,
-            right = n - 1;
-        while (left < right) {
-            ans += gcd(prefixGcd[left], prefixGcd[right]);
-            ++left;
-            --right;
-        }
-
-        return ans;
+        return sum;
     }
 
-    public int gcd(int num1, int num2) {
-        while (num2 != 0) {
-            int temp = num1;
-            num1 = num2;
-            num2 = temp % num2;
+     public int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return num1;
+        return a;
     }
 }
