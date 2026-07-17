@@ -1,44 +1,46 @@
-class Solution {
+import java.util.*;
 
+class Solution {
     public int[] gcdValues(int[] nums, long[] queries) {
-        int m = 0;
-        for (int num : nums) {
-            m = Math.max(m, num);
-        }
-        long[] cnt = new long[m + 1];
-        for (int num : nums) {
-            cnt[num]++;
-        }
-        for (int i = 1; i <= m; i++) {
-            for (int j = i * 2; j <= m; j += i) {
-                cnt[i] += cnt[j];
+        int max = 0;
+        for (int x : nums) max = Math.max(max, x);
+
+        int[] freq = new int[max + 1];
+        for (int x : nums) freq[x]++;
+
+        long[] multiples = new long[max + 1];
+        for (int g = max; g >= 1; g--) {
+            long cnt = 0;
+            for (int m = g; m <= max; m += g) {
+                cnt += freq[m];
             }
+            multiples[g] = cnt;
         }
-        for (int i = 1; i <= m; i++) {
-            cnt[i] = (cnt[i] * (cnt[i] - 1)) / 2;
-        }
-        for (int i = m; i >= 1; i--) {
-            for (int j = i * 2; j <= m; j += i) {
-                cnt[i] -= cnt[j];
+
+        long[] exact = new long[max + 1];
+        for (int g = max; g >= 1; g--) {
+            long total = multiples[g] * (multiples[g] - 1) / 2;
+            for (int m = 2 * g; m <= max; m += g) {
+                total -= exact[m];
             }
+            exact[g] = total;
         }
-        for (int i = 1; i <= m; i++) {
-            cnt[i] += cnt[i - 1];
+
+        long[] pref = new long[max + 1];
+        for (int g = 1; g <= max; g++) {
+            pref[g] = pref[g - 1] + exact[g];
         }
+
         int[] ans = new int[queries.length];
-        for (int k = 0; k < queries.length; k++) {
-            long q = queries[k] + 1;
-            int left = 1,
-                right = m;
-            while (left < right) {
-                int mid = (left + right) / 2;
-                if (cnt[mid] >= q) {
-                    right = mid;
-                } else {
-                    left = mid + 1;
-                }
+        for (int i = 0; i < queries.length; i++) {
+            long k = queries[i] + 1;
+            int lo = 1, hi = max;
+            while (lo < hi) {
+                int mid = (lo + hi) >>> 1;
+                if (pref[mid] >= k) hi = mid;
+                else lo = mid + 1;
             }
-            ans[k] = left;
+            ans[i] = lo;
         }
         return ans;
     }
