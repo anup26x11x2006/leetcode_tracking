@@ -1,34 +1,33 @@
+import java.util.AbstractList;
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
+        final int n = grid.length;
+        final int m = grid[0].length;
+        final int total = n * m;
+        final int shift = k % total;
 
-        int total = m * n;
-        k %= total;
+        return new AbstractList<List<Integer>>() {
+            @Override
+            public List<Integer> get(int i) {
+                return new AbstractList<Integer>() {
+                    @Override
+                    public Integer get(int j) {
+                        int target1D = i * m + j;
+                        int source1D = (target1D + total - shift) % total;
+                        return grid[source1D / m][source1D % m];
+                    }
 
-        List<List<Integer>> ans = new ArrayList<>();
-
-        for (int i = 0; i < m; i++) {
-            List<Integer> row = new ArrayList<>();
-            for (int j = 0; j < n; j++)
-                row.add(0);
-            ans.add(row);
-        }
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                int oldIndex = i * n + j;
-
-                int newIndex = (oldIndex + k) % total;
-
-                int newRow = newIndex / n;
-                int newCol = newIndex % n;
-
-                ans.get(newRow).set(newCol, grid[i][j]);
+                    @Override
+                    public int size() {
+                        return m;
+                    }
+                };
             }
-        }
 
-        return ans;
+            @Override
+            public int size() {
+                return n;
+            }
+        };
     }
 }
