@@ -1,74 +1,81 @@
+#include <cctype>
+#include <cstddef>
+#include <cstdint>
+#include <iterator>
+#include <string>
+#include <vector>
 class Solution {
-private:
-    long long comb(long long n, long long m, long long k) {
-        long long res = 1;
-        m = std::min(m, n - m);
+ public:
+  std::string smallestPalindrome(std::string s, int k) {
+    std::vector<int> count(26);
 
-        for (long long i = 1; i <= m; i++) {
-            res = res * (n - i + 1) / i;
-            if (res > k) {
-                return k + 1;
-            }
-        }
-        return res;
+    for (int i = 0; i < std::size(s) / 2; ++i) {
+      ++count[s[i] - 'a'];
     }
 
-public:
-    std::string smallestPalindrome(std::string s, long long k) {
-        int partition = s.length() / 2;
-        std::vector<int> bucket(26, 0);
+    int total = 0, counting = 1, remain = 0;
+    int i;
 
-        for (int i = 0; i < partition; i++) {
-            bucket[s[i] - 'a'] += 1;
+    for (i = std::size(count) - 1; i >= 0; --i) {
+      for (int c = 1; c <= count[i]; ++c) {
+        ++total;
+        counting = counting * total / c;
+        if (counting >= k) {
+          remain = count[i] - c;
+          break;
         }
+      }
 
-        auto permutations = [&](int rem) {
-            long long ways = 1;
-            for (int i = 0; i < 26; i++) {
-                if (bucket[i] == 0) {
-                    continue;
-                }
-
-                ways *= comb(rem, bucket[i], k);
-                if (ways > k) {
-                    break;
-                }
-                rem -= bucket[i];
-            }
-            return ways;
-        };
-
-        std::string left = "";
-        long long startIndex = 1;
-
-        for (int pos = 0; pos < partition; pos++) {
-            for (int i = 0; i < 26; i++) {
-                if (bucket[i] == 0) {
-                    continue;
-                }
-
-                bucket[i] -= 1;
-
-                long long ways = permutations(partition - pos - 1);
-                if (startIndex + ways > k) {
-                    left += (char)(i + 'a');
-                    break;
-                }
-
-                bucket[i] += 1;
-                startIndex += ways;
-            }
-        }
-
-        if (left.length() < partition) {
-            return "";
-        }
-
-        std::string mid =
-            s.length() % 2 != 0 ? std::string(1, s[partition]) : "";
-        std::string right = left;
-        std::reverse(right.begin(), right.end());
-
-        return left + mid + right;
+      if (counting >= k) {
+        break;
+      }
     }
+
+    if (counting < k) {
+      return "";
+    }
+
+    std::string hasil(std::size(s), 0);
+    int l = 0;
+
+    for (int j = 0; j <= i; ++j) {
+      const char x = 'a' + j;
+      const int c = j != i ? count[j] : remain;
+
+      for (int _ = 0; _ < c; ++_) {
+        --count[j];
+        hasil[l++] = x;
+      }
+    }
+
+    while (total) {
+      for (int j = i; j < std::size(count); ++j) {
+        if (!count[j]) {
+          continue;
+        }
+
+        const auto new_count = static_cast<int64_t>(counting) * count[j] / total;
+
+        if (new_count < k) {
+          k -= new_count;
+          continue;
+        }
+
+        counting = new_count;
+        --count[j];
+        --total;
+        hasil[l++] = 'a' + j;
+        break;
+      }
+    }
+
+    if (std::size(s) % 2) {
+      hasil[l++] = s[std::size(s) / 2];
+    }
+
+    for (int i = l - 1 - std::size(s) % 2; i >= 0; --i) {
+      hasil[l++] = hasil[i];
+    }
+    return hasil;
+  }
 };
