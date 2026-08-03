@@ -1,20 +1,21 @@
 class Solution {
-    static final String[] s = { "Bob", "Tie", "Alice" };
-
-    public String stoneGameIII(int[] A) {
-        int n = A.length;
-        int[] dp = { 0, 0, 0, 0 };
-
-        for (int i = n - 1; i >= 0; i--) {
-            dp[i & 3] = Integer.MIN_VALUE;
-            int sum = 0;
-
-            for (int j = 1; j <= 3 && i + j <= n; j++) {
-                sum += A[i + j - 1];
-                dp[i & 3] = Math.max(dp[i & 3], sum - dp[(i + j) & 3]);
-            }
+    public String stoneGameIII(int[] stoneValue) {
+        int sufSum = 0;
+        int f1 = 0;
+        int f2 = 0;
+        int f3 = 0;
+        for (int i = stoneValue.length - 1; i >= 0; i--) {
+            sufSum += stoneValue[i];
+            int newF = sufSum - Math.min(Math.min(f1, f2), f3);
+            f3 = f2;
+            f2 = f1;
+            f1 = newF;
         }
 
-        return s[Integer.signum(dp[0]) + 1];
+        int diff = f1 - (sufSum - f1);
+        if (diff == 0) {
+            return "Tie";
+        }
+        return diff > 0 ? "Alice" : "Bob";
     }
 }
