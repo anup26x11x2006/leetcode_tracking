@@ -260,4 +260,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
