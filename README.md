@@ -125,6 +125,7 @@ leetcode_tracking
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -277,4 +278,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0177-nth-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
