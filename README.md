@@ -43,6 +43,7 @@ leetcode_tracking
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -232,6 +233,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
