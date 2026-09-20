@@ -1,6 +1,6 @@
-class Solution:
+class Solution(object):
     def reverseDegree(self, s):
-        ans = 0
-        for i, ch in enumerate(s, start=1):
-            ans += (26 - (ord(ch) - ord("a"))) * i
-        return ans
+        p = 0
+        for i in range(len(s)):
+            p += (123 - ord(s[i])) * (i+1)
+        return p
