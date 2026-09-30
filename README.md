@@ -41,6 +41,7 @@ leetcode_tracking
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -257,6 +258,7 @@ leetcode_tracking
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -306,6 +308,7 @@ leetcode_tracking
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
