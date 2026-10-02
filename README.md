@@ -7,6 +7,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
@@ -83,6 +84,7 @@ leetcode_tracking
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -330,4 +332,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
