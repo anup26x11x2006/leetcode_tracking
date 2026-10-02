@@ -135,6 +135,7 @@ leetcode_tracking
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
@@ -282,6 +283,7 @@ leetcode_tracking
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -321,4 +323,8 @@ leetcode_tracking
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
