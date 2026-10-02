@@ -6,6 +6,7 @@ leetcode_tracking
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
@@ -60,6 +61,7 @@ leetcode_tracking
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1358-number-of-substrings-containing-all-three-characters) |
