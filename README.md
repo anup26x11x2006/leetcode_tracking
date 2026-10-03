@@ -44,6 +44,7 @@ leetcode_tracking
 | [0003-longest-substring-without-repeating-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
@@ -167,6 +168,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
@@ -269,6 +271,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -326,6 +329,7 @@ leetcode_tracking
 | ------- |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
