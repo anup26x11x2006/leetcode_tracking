@@ -42,6 +42,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
@@ -169,6 +170,7 @@ leetcode_tracking
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -226,6 +228,7 @@ leetcode_tracking
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -352,4 +355,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
