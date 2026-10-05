@@ -45,6 +45,7 @@ leetcode_tracking
 | [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
@@ -175,6 +176,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -306,6 +308,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
