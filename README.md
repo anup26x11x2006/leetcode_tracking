@@ -149,6 +149,7 @@ leetcode_tracking
 | ------- |
 | [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
