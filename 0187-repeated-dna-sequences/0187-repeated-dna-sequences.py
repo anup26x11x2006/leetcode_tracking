@@ -1,6 +1,14 @@
-class Solution:
+class Solution(object):
     def findRepeatedDnaSequences(self, s):
-        sequences = collections.defaultdict(int)
-        for i in range(len(s)):
-            sequences[s[i:i+10]] += 1
-        return [key for key, value in sequences.iteritems() if value > 1]
+        seen = set()
+        repeated = set()
+
+        for i in range(len(s) - 9):
+            seq = s[i:i + 10]
+
+            if seq in seen:
+                repeated.add(seq)
+            else:
+                seen.add(seq)
+
+        return list(repeated)  
