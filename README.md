@@ -39,6 +39,7 @@ leetcode_tracking
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ leetcode_tracking
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +132,7 @@ leetcode_tracking
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +238,7 @@ leetcode_tracking
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,12 +289,14 @@ leetcode_tracking
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -395,4 +401,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
