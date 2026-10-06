@@ -1,42 +1,36 @@
+const static auto fast_io = [](){ cin.tie(nullptr); ios::sync_with_stdio(false); return 0; }();
+
 class Solution {
 public:
-    int numIslands(vector<vector<char>>& grid) {
-        int islands = 0;
-        int rows = grid.size();
-        int cols = grid[0].size();
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '1') {
+    void consume_island(vector<vector<char>>&grid,int i, int j,int n ,int m)
+    {
+        if(i<0 || j<0 || i==n || j==m || grid[i][j]!='1')return;
+        
+        grid[i][j]='0';
+        consume_island(grid,i-1,j,n,m);
+        consume_island(grid,i+1,j,n,m);
+        consume_island(grid,i,j+1,n,m);
+        consume_island(grid,i,j-1,n,m);
+    }
+
+    int numIslands(vector<vector<char>>& grid) 
+    {
+        int n = grid.size();
+        int m = grid[0].size();
+        int islands=0;
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(grid[i][j] == '1')
+                {
                     islands++;
-                    bfs(grid, r, c, rows, cols);
+                    consume_island(grid,i,j,n,m);
                 }
             }
         }
-
-        return islands;        
+        return islands;
     }
-
-private:
-    void bfs(vector<vector<char>>& grid, int r, int c, int rows, int cols) {
-        queue<pair<int, int>> q;
-        q.push({r, c});
-        grid[r][c] = '0';
-
-        vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
-        while (!q.empty()) {
-            auto [row, col] = q.front();
-            q.pop();
-
-            for (auto [dr, dc] : directions) {
-                int nr = row + dr;
-                int nc = col + dc;
-                if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == '1') {
-                    q.push({nr, nc});
-                    grid[nr][nc] = '0';
-                }
-            }
-        }
-    }
-};    
+};
