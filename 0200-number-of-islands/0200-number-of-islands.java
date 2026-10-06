@@ -1,40 +1,43 @@
 class Solution {
+    int rows, cols;
+    int count = 0;
+
     public int numIslands(char[][] grid) {
-        int islands = 0;
-        int rows = grid.length;
-        int cols = grid[0].length;
+        rows = grid.length;
+        cols = grid[0].length;
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '1') {
-                    islands++;
-                    bfs(grid, r, c, rows, cols);
-                }
-            }
+        for(int row = 0; row < rows ; row++){
+            check(row, grid);
         }
-
-        return islands;        
+        return count;
     }
 
-    private void bfs(char[][] grid, int r, int c, int rows, int cols) {
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{r, c});
-        grid[r][c] = '0';
+    public void check(int row, char[][] grid){
 
-        int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
-        while (!q.isEmpty()) {
-            int[] point = q.poll();
-            int row = point[0], col = point[1];
-
-            for (int[] direction : directions) {
-                int nr = row + direction[0];
-                int nc = col + direction[1];
-                if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == '1') {
-                    q.add(new int[]{nr, nc});
-                    grid[nr][nc] = '0';
-                }
+        for(int col = 0 ; col < cols ; col++){
+            if(grid[row][col] == '1'){
+                count++;
+                dfs(row, col, grid);
             }
         }
-    }    
+    }
+
+    public void dfs(int row, int col, char[][] grid){
+        grid[row][col] = '*';
+        if(row > 0 && grid[row-1][col] == '1'){
+            dfs(row-1, col, grid);
+        }
+        if(row < rows - 1 && grid[row + 1][col] == '1'){
+            dfs(row + 1, col, grid);
+        }
+
+        if(col > 0 && grid[row][col - 1] == '1'){
+            dfs(row, col - 1, grid);
+        }
+        if(col < cols - 1 && grid[row][col + 1] == '1'){
+            dfs(row, col + 1, grid);
+        }
+    
+    }
+
 }
