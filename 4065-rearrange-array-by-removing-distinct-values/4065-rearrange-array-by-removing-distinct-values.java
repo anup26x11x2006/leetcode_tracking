@@ -1,13 +1,19 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        TreeMap<Integer, Integer> freq = new TreeMap<>();
-        for (int x : nums) freq.merge(x, 1, Integer::sum);
-        int[] ans = new int[nums.length];
-        int i = 0;
-        while (!freq.isEmpty()) {
-            for (int x : freq.keySet()) ans[i++] = x;
-            freq.replaceAll((x, f) -> f - 1);
-            freq.values().removeIf(f -> f == 0);
+        int freq[] = new int[101];
+        int n = nums.length;
+        for(int i=0;i<n;i++){
+            freq[nums[i]]++;
+        }
+        int ans[]= new int[n];
+        int x = 0 ; 
+        while(x<n){
+            for(int i=0;i<=100;i++){
+                if(freq[i]>0){
+                    ans[x++] = i;
+                    freq[i]-- ;
+                }
+            }
         }
         return ans;
     }
