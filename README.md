@@ -50,6 +50,7 @@ leetcode_tracking
 | [0008-string-to-integer-atoi](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
@@ -81,6 +82,7 @@ leetcode_tracking
 | [0001-two-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1331-rank-transform-of-an-array) |
@@ -168,6 +170,7 @@ leetcode_tracking
 | [0007-reverse-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
