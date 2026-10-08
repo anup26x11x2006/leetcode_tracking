@@ -274,6 +274,7 @@ leetcode_tracking
 | [0015-3sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -406,6 +407,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Divide and Conquer
 |  |
 | ------- |
