@@ -30,6 +30,7 @@ leetcode_tracking
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -294,6 +295,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3514-number-of-unique-xor-triplets-ii) |
