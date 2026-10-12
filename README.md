@@ -367,6 +367,7 @@ leetcode_tracking
 | [0002-add-two-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -423,6 +424,7 @@ leetcode_tracking
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
