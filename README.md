@@ -32,6 +32,7 @@ leetcode_tracking
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3312-sorted-gcd-pair-queries) |
@@ -99,6 +100,7 @@ leetcode_tracking
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
@@ -244,6 +246,7 @@ leetcode_tracking
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -287,6 +290,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3514-number-of-unique-xor-triplets-ii) |
