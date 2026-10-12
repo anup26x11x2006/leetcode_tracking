@@ -14,6 +14,7 @@ leetcode_tracking
 | [0016-3sum-closest](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -287,6 +288,7 @@ leetcode_tracking
 | [0018-4sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
