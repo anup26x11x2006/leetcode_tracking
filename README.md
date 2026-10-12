@@ -189,6 +189,7 @@ leetcode_tracking
 | [0009-palindrome-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
@@ -296,6 +297,7 @@ leetcode_tracking
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
