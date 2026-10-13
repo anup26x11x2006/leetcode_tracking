@@ -48,6 +48,7 @@ leetcode_tracking
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
@@ -258,6 +259,7 @@ leetcode_tracking
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +277,7 @@ leetcode_tracking
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
