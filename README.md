@@ -76,6 +76,7 @@ leetcode_tracking
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
