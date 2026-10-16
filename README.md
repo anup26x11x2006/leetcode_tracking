@@ -36,6 +36,7 @@ leetcode_tracking
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3312-sorted-gcd-pair-queries) |
@@ -109,6 +110,7 @@ leetcode_tracking
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
@@ -375,6 +377,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -501,4 +504,5 @@ leetcode_tracking
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
