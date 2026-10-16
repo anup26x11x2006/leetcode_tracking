@@ -114,6 +114,7 @@ leetcode_tracking
 | [0036-valid-sudoku](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -215,6 +216,7 @@ leetcode_tracking
 | [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
@@ -321,6 +323,7 @@ leetcode_tracking
 | [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -533,4 +536,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
