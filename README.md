@@ -16,6 +16,7 @@ leetcode_tracking
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -130,6 +131,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
