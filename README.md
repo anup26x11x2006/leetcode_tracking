@@ -15,6 +15,7 @@ leetcode_tracking
 | [0018-4sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -304,6 +305,7 @@ leetcode_tracking
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
