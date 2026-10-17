@@ -56,6 +56,7 @@ leetcode_tracking
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -128,6 +129,7 @@ leetcode_tracking
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
@@ -301,6 +303,7 @@ leetcode_tracking
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
