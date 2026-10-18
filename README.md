@@ -84,6 +84,7 @@ leetcode_tracking
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
@@ -224,6 +225,7 @@ leetcode_tracking
 | [0012-integer-to-roman](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -380,6 +382,7 @@ leetcode_tracking
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
