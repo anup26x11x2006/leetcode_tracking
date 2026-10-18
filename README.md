@@ -478,6 +478,7 @@ leetcode_tracking
 | [0183-customers-who-never-order](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0511-game-play-analysis-i) |
 ## Geometry
 |  |
 | ------- |
