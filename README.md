@@ -23,6 +23,7 @@ leetcode_tracking
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -116,6 +117,7 @@ leetcode_tracking
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
