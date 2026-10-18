@@ -24,6 +24,7 @@ leetcode_tracking
 | [0039-combination-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -254,6 +255,7 @@ leetcode_tracking
 | [0010-regular-expression-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -335,6 +337,7 @@ leetcode_tracking
 | [0027-remove-element](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -393,6 +396,7 @@ leetcode_tracking
 | ------- |
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -405,6 +409,7 @@ leetcode_tracking
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
