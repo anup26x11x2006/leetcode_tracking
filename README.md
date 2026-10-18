@@ -25,6 +25,7 @@ leetcode_tracking
 | [0040-combination-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -260,6 +261,7 @@ leetcode_tracking
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0045-jump-game-ii) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -289,6 +291,7 @@ leetcode_tracking
 | ------- |
 | [0011-container-with-most-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0921-minimum-add-to-make-parentheses-valid) |
