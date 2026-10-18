@@ -28,6 +28,7 @@ leetcode_tracking
 | [0045-jump-game-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ leetcode_tracking
 | ------- |
 | [0036-valid-sudoku](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
@@ -230,6 +232,7 @@ leetcode_tracking
 | [0013-roman-to-integer](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
