@@ -253,6 +253,7 @@ leetcode_tracking
 | [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
@@ -384,6 +385,7 @@ leetcode_tracking
 | ------- |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -475,6 +477,7 @@ leetcode_tracking
 | [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
