@@ -47,6 +47,7 @@ leetcode_tracking
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -162,6 +163,7 @@ leetcode_tracking
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -328,6 +330,7 @@ leetcode_tracking
 | [1331-rank-transform-of-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3517-smallest-palindromic-rearrangement-i) |
