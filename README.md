@@ -36,6 +36,7 @@ leetcode_tracking
 | [0055-jump-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -215,6 +216,7 @@ leetcode_tracking
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
@@ -416,6 +418,7 @@ leetcode_tracking
 | ------- |
 | [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
