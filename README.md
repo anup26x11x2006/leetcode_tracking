@@ -30,6 +30,7 @@ leetcode_tracking
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -498,6 +499,7 @@ leetcode_tracking
 | [0040-combination-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -586,6 +588,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
