@@ -34,6 +34,7 @@ leetcode_tracking
 | [0053-maximum-subarray](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
@@ -331,6 +332,7 @@ leetcode_tracking
 | [0018-4sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
@@ -628,4 +630,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
