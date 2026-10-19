@@ -500,6 +500,7 @@ leetcode_tracking
 | [0046-permutations](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0052-n-queens-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -589,6 +590,7 @@ leetcode_tracking
 | ------- |
 | [0037-sudoku-solver](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
