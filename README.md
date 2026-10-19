@@ -249,6 +249,7 @@ leetcode_tracking
 | [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -470,6 +471,7 @@ leetcode_tracking
 | [0025-reverse-nodes-in-k-group](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
