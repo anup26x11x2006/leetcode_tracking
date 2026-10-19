@@ -35,6 +35,7 @@ leetcode_tracking
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
