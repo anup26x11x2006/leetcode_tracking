@@ -265,6 +265,7 @@ leetcode_tracking
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -305,6 +306,7 @@ leetcode_tracking
 | [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -657,6 +659,7 @@ leetcode_tracking
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
