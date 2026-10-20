@@ -106,6 +106,7 @@ leetcode_tracking
 | [0049-group-anagrams](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
@@ -259,6 +260,7 @@ leetcode_tracking
 | [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -397,6 +399,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -438,6 +441,7 @@ leetcode_tracking
 | [0043-multiply-strings](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
