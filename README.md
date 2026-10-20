@@ -380,6 +380,7 @@ leetcode_tracking
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -551,6 +552,7 @@ leetcode_tracking
 | [0023-merge-k-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
