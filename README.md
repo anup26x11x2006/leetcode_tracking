@@ -178,6 +178,7 @@ leetcode_tracking
 | [0033-search-in-rotated-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -263,6 +264,7 @@ leetcode_tracking
 | [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
@@ -668,4 +670,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
