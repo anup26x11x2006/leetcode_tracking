@@ -252,6 +252,7 @@ leetcode_tracking
 | [0048-rotate-image](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
@@ -290,6 +291,7 @@ leetcode_tracking
 | [0045-jump-game-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -416,6 +418,7 @@ leetcode_tracking
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
