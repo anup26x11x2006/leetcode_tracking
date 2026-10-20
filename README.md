@@ -40,6 +40,7 @@ leetcode_tracking
 | [0063-unique-paths-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -107,6 +108,7 @@ leetcode_tracking
 | [0058-length-of-last-word](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
@@ -442,6 +444,7 @@ leetcode_tracking
 | [0054-spiral-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
