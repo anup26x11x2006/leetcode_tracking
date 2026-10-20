@@ -79,6 +79,7 @@ leetcode_tracking
 | [3620-network-recovery-pathways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
@@ -276,6 +277,7 @@ leetcode_tracking
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,6 +358,7 @@ leetcode_tracking
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
@@ -399,6 +402,7 @@ leetcode_tracking
 | [3483-unique-3-digit-even-numbers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
