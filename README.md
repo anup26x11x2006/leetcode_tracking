@@ -109,6 +109,7 @@ leetcode_tracking
 | [0065-valid-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
@@ -477,6 +478,7 @@ leetcode_tracking
 | [0020-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
