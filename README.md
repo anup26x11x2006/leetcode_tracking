@@ -44,6 +44,7 @@ leetcode_tracking
 | [0073-set-matrix-zeroes](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -431,6 +432,7 @@ leetcode_tracking
 | ------- |
 | [0029-divide-two-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -577,6 +579,7 @@ leetcode_tracking
 | [0051-n-queens](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
