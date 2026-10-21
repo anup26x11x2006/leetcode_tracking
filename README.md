@@ -133,6 +133,7 @@ leetcode_tracking
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
