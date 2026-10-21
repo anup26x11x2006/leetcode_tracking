@@ -42,6 +42,7 @@ leetcode_tracking
 | [0066-plus-one](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -188,6 +189,7 @@ leetcode_tracking
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -239,6 +241,7 @@ leetcode_tracking
 | [0063-unique-paths-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
