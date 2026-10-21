@@ -113,6 +113,7 @@ leetcode_tracking
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -271,6 +272,7 @@ leetcode_tracking
 | [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
@@ -413,6 +415,7 @@ leetcode_tracking
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3513-number-of-unique-xor-triplets-i) |
