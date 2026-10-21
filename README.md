@@ -43,6 +43,7 @@ leetcode_tracking
 | [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -377,6 +378,7 @@ leetcode_tracking
 | [0047-permutations-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
@@ -416,6 +418,7 @@ leetcode_tracking
 | [0031-next-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -697,6 +700,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
@@ -709,4 +713,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
