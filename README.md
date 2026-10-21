@@ -196,6 +196,7 @@ leetcode_tracking
 | ------- |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
+| [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2685-count-the-number-of-complete-components) |
@@ -331,6 +332,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
@@ -655,6 +657,7 @@ leetcode_tracking
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -668,6 +671,7 @@ leetcode_tracking
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
