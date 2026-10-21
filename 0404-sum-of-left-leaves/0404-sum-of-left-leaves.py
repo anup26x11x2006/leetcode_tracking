@@ -1,10 +1,17 @@
-class Solution(object):
+
+class Solution:
     def sumOfLeftLeaves(self, root):
-        def dfs(node, is_left):
-            if not node:
-                return 0
-            if not node.left and not node.right:
-                return node.val if is_left else 0
-            return dfs(node.left, True) + dfs(node.right, False)
-        
-        return dfs(root, False)
+        if root is None:
+            return 0
+
+        total = 0
+
+        if root.left:
+            if root.left.left is None and root.left.right is None:
+                total += root.left.val
+            else:
+                total += self.sumOfLeftLeaves(root.left)
+
+        total += self.sumOfLeftLeaves(root.right)
+
+        return total
