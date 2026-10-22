@@ -57,6 +57,7 @@ leetcode_tracking
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1288-remove-covered-intervals) |
@@ -242,6 +243,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -409,6 +411,7 @@ leetcode_tracking
 | [0088-merge-sorted-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0506-relative-ranks) |
 | [1096-brace-expansion-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1331-rank-transform-of-an-array) |
