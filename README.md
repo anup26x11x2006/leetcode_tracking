@@ -734,12 +734,14 @@ leetcode_tracking
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -753,6 +755,7 @@ leetcode_tracking
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
