@@ -369,6 +369,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -524,6 +525,7 @@ leetcode_tracking
 | [0071-simplify-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
@@ -722,6 +724,7 @@ leetcode_tracking
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
@@ -736,6 +739,7 @@ leetcode_tracking
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
