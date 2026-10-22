@@ -89,6 +89,7 @@ leetcode_tracking
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
