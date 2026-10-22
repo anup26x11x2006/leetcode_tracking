@@ -59,6 +59,7 @@ leetcode_tracking
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
+| [0999-available-captures-for-rook](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
@@ -266,6 +267,7 @@ leetcode_tracking
 | [0079-word-search](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
+| [0999-available-captures-for-rook](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -511,6 +513,7 @@ leetcode_tracking
 | [0059-spiral-matrix-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0068-text-justification) |
+| [0999-available-captures-for-rook](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/3867-sum-of-gcd-of-formed-pairs) |
