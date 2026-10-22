@@ -244,6 +244,7 @@ leetcode_tracking
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -735,6 +736,7 @@ leetcode_tracking
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -742,6 +744,7 @@ leetcode_tracking
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -756,6 +759,7 @@ leetcode_tracking
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -774,6 +778,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -786,4 +791,8 @@ leetcode_tracking
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
