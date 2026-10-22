@@ -49,6 +49,7 @@ leetcode_tracking
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -255,6 +256,7 @@ leetcode_tracking
 | [0073-set-matrix-zeroes](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1301-number-of-paths-with-max-score) |
@@ -336,6 +338,7 @@ leetcode_tracking
 | [0064-minimum-path-sum](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -507,6 +510,7 @@ leetcode_tracking
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
@@ -522,6 +526,7 @@ leetcode_tracking
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
