@@ -123,6 +123,7 @@ leetcode_tracking
 | [0072-edit-distance](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
@@ -339,6 +340,7 @@ leetcode_tracking
 | [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0087-scramble-string) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
