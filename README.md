@@ -140,6 +140,7 @@ leetcode_tracking
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -318,6 +319,7 @@ leetcode_tracking
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
+| [0504-base-7](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1406-stone-game-iii) |
