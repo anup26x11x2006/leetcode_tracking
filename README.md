@@ -381,6 +381,7 @@ leetcode_tracking
 | ------- |
 | [0079-word-search](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -743,6 +744,7 @@ leetcode_tracking
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0098-validate-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
@@ -753,6 +755,7 @@ leetcode_tracking
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -768,6 +771,7 @@ leetcode_tracking
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0098-validate-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
