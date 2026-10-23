@@ -307,6 +307,7 @@ leetcode_tracking
 | [0069-sqrtx](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -354,6 +355,7 @@ leetcode_tracking
 | [0087-scramble-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
@@ -738,6 +740,7 @@ leetcode_tracking
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
@@ -747,6 +750,7 @@ leetcode_tracking
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -761,6 +765,7 @@ leetcode_tracking
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
