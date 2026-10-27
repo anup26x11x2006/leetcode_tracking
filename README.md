@@ -393,6 +393,7 @@ leetcode_tracking
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
@@ -551,6 +552,7 @@ leetcode_tracking
 | [0085-maximal-rectangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0232-implement-queue-using-stacks) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -759,6 +761,7 @@ leetcode_tracking
 | [0100-same-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
