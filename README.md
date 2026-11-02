@@ -243,6 +243,7 @@ leetcode_tracking
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
@@ -412,6 +413,7 @@ leetcode_tracking
 | [0101-symmetric-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -798,6 +800,7 @@ leetcode_tracking
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -841,6 +844,7 @@ leetcode_tracking
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0700-search-in-a-binary-search-tree) |
