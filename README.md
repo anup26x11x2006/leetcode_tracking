@@ -55,6 +55,7 @@ leetcode_tracking
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0217-contains-duplicate) |
@@ -388,6 +389,7 @@ leetcode_tracking
 | [0096-unique-binary-search-trees](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0118-pascals-triangle) |
 | [0458-poor-pigs](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/anup26x11x2006/leetcode_tracking/tree/master/0678-valid-parenthesis-string) |
